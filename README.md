@@ -21,7 +21,5 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=k3roropi)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k3roropi1&show_icons=true&locale=en" alt="k3roropi" /></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3roropi)](https://github.com/k3roropi/github-readme-stats)
 
